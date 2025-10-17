@@ -23,4 +23,6 @@ I feel that this is true of most new scientific applications in archaeology. The
 
 I checked out the ORBIS website of the Roman road networks, which was interesting to see. Is this project complete yet? There is not a single road in the entire Peloponnese, or does it just diplay major roads? There are many more roads in the modern UK which makes me think its not done yet.
 
+I read the instructions for both of the coding assignments, and when I went to download the CSV's for ORBIS, it wouldn't let me access the website saying something was wrong with my browser, I tried clearing all the cookies and updating my browser to the most current version and it still couldn't work. I also have that issue with R that I've been trying to resolve for the past week but still cannot figure out a way to have it work with Jupyter lab. I'll try to figure the R out over the Fall break because I'm sure I'll need it again for this course and want to do the future assingments.
+
 
